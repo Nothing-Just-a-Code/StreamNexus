@@ -1,0 +1,981 @@
+﻿{
+  "version": "1.1.0",
+  "whatsNew": [
+    "• New 1",
+    "• New 2",
+    "• New 3",
+    "• New 4"
+  ],
+  "files": [
+    {
+      "path": "DevExpress.BonusSkins.v25.2.dll",
+      "hash": "c32633b5d080530fe4be698213cd0101da45621d71ec04aab6909f4d72f85b19",
+      "size": 22623648
+    },
+    {
+      "path": "DevExpress.Charts.v25.2.Core.dll",
+      "hash": "5667f849014bd9b7a7c4b7fcb72b41da1bf1b0f5e50796b09342303f1dea32e9",
+      "size": 1060768
+    },
+    {
+      "path": "DevExpress.CodeParser.v25.2.dll",
+      "hash": "32c33ad854249f79f49ce30efd7f8e96154125746f32787e6c7d71b0a4678590",
+      "size": 1738144
+    },
+    {
+      "path": "DevExpress.Data.Desktop.v25.2.dll",
+      "hash": "45e470ccee293997054bc0e1cc1ca2a6933fd6b2757188b7d5f50b337213f631",
+      "size": 1297824
+    },
+    {
+      "path": "DevExpress.Data.v25.2.dll",
+      "hash": "5ccdc5dfcdcb4b2a1c99fa20cea42c45ca71fa69eb691cd206e883806adc796a",
+      "size": 5874080
+    },
+    {
+      "path": "DevExpress.DataAccess.v25.2.dll",
+      "hash": "bc7d260544640f2ee23533d1710eef8abeba1f7bc5dfcf24bc4a34c44d3a052d",
+      "size": 2787232
+    },
+    {
+      "path": "DevExpress.DataAccess.v25.2.UI.dll",
+      "hash": "2383478bb1c6be7624503a66c4490166af9af3e155735a12041f6fb93a286ee2",
+      "size": 1232288
+    },
+    {
+      "path": "DevExpress.DataVisualization.v25.2.Core.dll",
+      "hash": "23a540a9a39d64f9a012e8a8f25c46699440ad1404c6c692e4fb128f85b5a62d",
+      "size": 81824
+    },
+    {
+      "path": "DevExpress.Diagram.v25.2.Core.dll",
+      "hash": "1cff5400ee428ab51a5c363e3ca38581bf271a4cbbaf9b0725d52b82f7344f8e",
+      "size": 3113888
+    },
+    {
+      "path": "DevExpress.Dialogs.v25.2.Core.dll",
+      "hash": "eee597a4b8e307f1e39b7552c1948219435b8885e6c36c5781e336f2640533dc",
+      "size": 989088
+    },
+    {
+      "path": "DevExpress.Drawing.v25.2.dll",
+      "hash": "72cc0efeda8541b968b65f01da9db0a89817695fba931fd0ef128ebac254aa4f",
+      "size": 1086368
+    },
+    {
+      "path": "DevExpress.Images.v25.2.dll",
+      "hash": "ea5f467b5f85c946cc0181c3f6f7cb7bac218795da8132c0aaabf250a88fc645",
+      "size": 10592672
+    },
+    {
+      "path": "DevExpress.Map.v25.2.Core.dll",
+      "hash": "8397878099add5475279943e7f696b73c6a7735f73f79df2ff23d59c2b97d55f",
+      "size": 2171296
+    },
+    {
+      "path": "DevExpress.Mvvm.v25.2.dll",
+      "hash": "1bb76e9b5b754ff34e2108689cd9e115e63bafcbd1cf5b65459b1a6068e3f930",
+      "size": 1605536
+    },
+    {
+      "path": "DevExpress.Office.v25.2.Core.dll",
+      "hash": "fec656f9f2d2cd3c84eb17fbf73e195bfe35025ec2f56466488dbdef608c7e98",
+      "size": 3880352
+    },
+    {
+      "path": "DevExpress.Pdf.v25.2.Core.dll",
+      "hash": "af0bf3c97619c6fe1e1f4bd55cde052a6483cf7a6c8a4221c80b55dae9c831e3",
+      "size": 4863392
+    },
+    {
+      "path": "DevExpress.Pdf.v25.2.Drawing.dll",
+      "hash": "65fe483d25657e91edb6b9daf9d842eccf4a479e0cf0355dec44e32979b0baac",
+      "size": 577440
+    },
+    {
+      "path": "DevExpress.PivotGrid.v25.2.Core.dll",
+      "hash": "b0bae10d6c2e2616f83862749b48f0ed41afbaf50148c432208011818fb9cced",
+      "size": 3827104
+    },
+    {
+      "path": "DevExpress.Printing.v25.2.Core.dll",
+      "hash": "d1c640c1c78f72c0ea293e4516653eea14b3971b4660ee0aea5c67744b1cc62d",
+      "size": 4646816
+    },
+    {
+      "path": "DevExpress.RichEdit.v25.2.Core.dll",
+      "hash": "fcfd0f31e0401a088456c4e658e404f55a4eaa69d5d9cc5070c0774ad1096d03",
+      "size": 9465760
+    },
+    {
+      "path": "DevExpress.RichEdit.v25.2.Export.dll",
+      "hash": "bbe26f700ad7f548f5d93bc275b935139a21675ada52cd374fb9465d876c2bce",
+      "size": 267680
+    },
+    {
+      "path": "DevExpress.Sparkline.v25.2.Core.dll",
+      "hash": "02c0b8ff898284d251fb2f758749aa2bf61ce44a87d562285c88dabe6aaf1f7c",
+      "size": 95648
+    },
+    {
+      "path": "DevExpress.SpellChecker.v25.2.Core.dll",
+      "hash": "675c89d24d3aeeda3711d60d0e9d3732c04b43457b657f0258f73d132b6bdcf2",
+      "size": 1213856
+    },
+    {
+      "path": "DevExpress.Spreadsheet.v25.2.Core.dll",
+      "hash": "ab82b74d341dcaad7eeb94fe7fa34501bf1495d0117409847cec818d71f67901",
+      "size": 16311712
+    },
+    {
+      "path": "DevExpress.TreeMap.v25.2.Core.dll",
+      "hash": "20bdce44ebae447d03bdf4e139a4329fc302ffd85f6e270d6c009166530927d0",
+      "size": 41888
+    },
+    {
+      "path": "DevExpress.Utils.v25.2.dll",
+      "hash": "b332afddeb6f898b1c8bb501c9c17633e97bea0160f0ef4152833fcb9e62f51b",
+      "size": 20491168
+    },
+    {
+      "path": "DevExpress.Utils.v25.2.UI.dll",
+      "hash": "577091eb5bec49a302e9d23794234881433345d701a1e75cefed0ddd8464275a",
+      "size": 391584
+    },
+    {
+      "path": "DevExpress.Xpo.v25.2.dll",
+      "hash": "ba162d82ffd7e1cb0f8e9b377e329b604d26bce3c83708473ff1ef303a41c946",
+      "size": 2364320
+    },
+    {
+      "path": "DevExpress.XtraBars.v25.2.dll",
+      "hash": "fe5c3824ba2c9ce84945ce6b9bc378b9f497f0b46c6764272829a04d868ae82d",
+      "size": 6972832
+    },
+    {
+      "path": "DevExpress.XtraCharts.v25.2.dll",
+      "hash": "5004b656a5a7ba6e85c6b840c42d473c93cd313ff9c04ec547b89a843053a83f",
+      "size": 5420448
+    },
+    {
+      "path": "DevExpress.XtraCharts.v25.2.Extensions.dll",
+      "hash": "579f227c4909c91529a656fa7a1729c5af33190e9a4c145c024dc8c59a6f7565",
+      "size": 41376
+    },
+    {
+      "path": "DevExpress.XtraCharts.v25.2.UI.dll",
+      "hash": "19993b19359626cfd897286732cc0e1d67bf6af94fbbd5c9cc0317cca51119dd",
+      "size": 398240
+    },
+    {
+      "path": "DevExpress.XtraCharts.v25.2.Wizard.dll",
+      "hash": "531055c48dc7ed83237dca565b84ee7c29e968b16df4704fd249f3259a1e7431",
+      "size": 7290272
+    },
+    {
+      "path": "DevExpress.XtraDiagram.v25.2.dll",
+      "hash": "5b36d324f3e01451e54b9939fc414f60c60714dbefe79d045580bb0f980d71c8",
+      "size": 1373088
+    },
+    {
+      "path": "DevExpress.XtraDialogs.v25.2.dll",
+      "hash": "d8fcca75613458fe2da0978de7c58fbabbe602d5571d5a6925137a10038436bc",
+      "size": 951200
+    },
+    {
+      "path": "DevExpress.XtraEditors.v25.2.dll",
+      "hash": "dbbccc8acce0e917117e36a0fea1c110a695a88f17aa321711647fcaa6aceca2",
+      "size": 8286112
+    },
+    {
+      "path": "DevExpress.XtraGantt.v25.2.dll",
+      "hash": "e76b3909d4304c51b5c4ae24c11bda89ebce4b9c983c39a84d429bb3eb0e07bd",
+      "size": 848288
+    },
+    {
+      "path": "DevExpress.XtraGauges.v25.2.Core.dll",
+      "hash": "f39a973f2cde3dd2629d9ff2125f57d9cd3ded43d4e4a4404c7a5dce17b25ea5",
+      "size": 1963936
+    },
+    {
+      "path": "DevExpress.XtraGauges.v25.2.Presets.dll",
+      "hash": "aae9f91e8a142bcfb91c4d983f8b1131ca4e2abcad23d94d3f55fd09b5bcefa1",
+      "size": 1158048
+    },
+    {
+      "path": "DevExpress.XtraGauges.v25.2.Win.dll",
+      "hash": "65359d7a76c457d017e7e8bb27a6d5f7c13a26ea9a40f42a688a9072151d03c9",
+      "size": 273312
+    },
+    {
+      "path": "DevExpress.XtraGrid.v25.2.dll",
+      "hash": "41ee02c8e72af2b8521ed4f159a8a3486ca557fca8f58721bf2565edcd0da1f1",
+      "size": 3801504
+    },
+    {
+      "path": "DevExpress.XtraLayout.v25.2.dll",
+      "hash": "05337210aa2121b8a071b05dc135d56734cd0b846773a7a4598aa08e3082e897",
+      "size": 2189216
+    },
+    {
+      "path": "DevExpress.XtraMap.v25.2.dll",
+      "hash": "34e911f30c08cfb8dc9684f8ddfca3316b85153133fef504f428fa9b36121dc3",
+      "size": 1775008
+    },
+    {
+      "path": "DevExpress.XtraNavBar.v25.2.dll",
+      "hash": "cc5785df02fba6daa8dd14108fcc2ba5bc47907f2883647777ca027b1abb3f51",
+      "size": 442784
+    },
+    {
+      "path": "DevExpress.XtraPdfViewer.v25.2.dll",
+      "hash": "7b214b886a4eec8e2ebabf51009b71b4798983d7504109ebaa0115e5ceb806e3",
+      "size": 1363360
+    },
+    {
+      "path": "DevExpress.XtraPivotGrid.v25.2.dll",
+      "hash": "7a79bc49d332263b2056e2cf3070db5bab06b81d06b0accc01eaefd689453ae3",
+      "size": 906144
+    },
+    {
+      "path": "DevExpress.XtraPrinting.v25.2.dll",
+      "hash": "9e2f76f1b9eab0d6e898a4c6561cfdb13a5feec3871f2625bd061ae7a4387177",
+      "size": 1062304
+    },
+    {
+      "path": "DevExpress.XtraReports.v25.2.dll",
+      "hash": "8a1a8c921fe86462159ee1cc225bcb4451c5ea5cb1e396124c8328c28cf1ee32",
+      "size": 4687776
+    },
+    {
+      "path": "DevExpress.XtraReports.v25.2.Extensions.dll",
+      "hash": "773fdc93e822957fd8a6ef2088548319e5887878de0fcd2ff402e935328e4e0c",
+      "size": 4192160
+    },
+    {
+      "path": "DevExpress.XtraRichEdit.v25.2.dll",
+      "hash": "3a93d0187f06f5a6893b7d4e0bc5715e8d775c55dc04691885a0c6ba5874ba18",
+      "size": 2694560
+    },
+    {
+      "path": "DevExpress.XtraScheduler.v25.2.Core.Desktop.dll",
+      "hash": "f6b1bd1a0a0890ebaf28b7528648c32aaec8f2ed8a1637f9f77f13e2bb5f4fb7",
+      "size": 1297824
+    },
+    {
+      "path": "DevExpress.XtraScheduler.v25.2.Core.dll",
+      "hash": "865ee595f8d3cddd9a93ab196f06c2afc09194da763e2f7f326fa01865bfa2f1",
+      "size": 642464
+    },
+    {
+      "path": "DevExpress.XtraScheduler.v25.2.dll",
+      "hash": "b13fe63f08af8be30640321ea5d5160157b96715f1114a5b5a06fe4b581e1a83",
+      "size": 3623840
+    },
+    {
+      "path": "DevExpress.XtraScheduler.v25.2.Extensions.dll",
+      "hash": "09ffff4153eddb9fd62eb4be52d298579fe6c9bb09123ae15f0d0e9fd4cabf72",
+      "size": 262048
+    },
+    {
+      "path": "DevExpress.XtraScheduler.v25.2.Reporting.dll",
+      "hash": "2ae0cc2a3cbe74438819cb0e5e9a91ed8427eadf06d4733a83ca5858384ebba5",
+      "size": 357792
+    },
+    {
+      "path": "DevExpress.XtraScheduler.v25.2.Reporting.Extensions.dll",
+      "hash": "30c062e7043c2fbb5a8d678936381590c86da8284ed89e60ad088439de545edd",
+      "size": 1126304
+    },
+    {
+      "path": "DevExpress.XtraSpellChecker.v25.2.dll",
+      "hash": "1620fe7a0a18fcfbd30484a70a053c1614b35fac53a29a6a8a17096444995f5e",
+      "size": 242592
+    },
+    {
+      "path": "DevExpress.XtraSpreadsheet.v25.2.dll",
+      "hash": "48a5af11cfa5259d6f63b84d5caac3694df663bf3d15dd46df3d59351355774f",
+      "size": 4415904
+    },
+    {
+      "path": "DevExpress.XtraTreeList.v25.2.dll",
+      "hash": "8eadbd81e1535773e69afa4d2ef45abeb7172f9121a7d6078f5540803a8f34fe",
+      "size": 1702304
+    },
+    {
+      "path": "DevExpress.XtraTreeMap.v25.2.dll",
+      "hash": "3b59c277afe89080f6a9f04b31a52ae6f1cc92233e571c1a5388b216781be38f",
+      "size": 285600
+    },
+    {
+      "path": "DevExpress.XtraTreeMap.v25.2.UI.dll",
+      "hash": "c3e498025fc349aef0e970e7686c1305617a00edf3f9a1d8d40f47976f0b7431",
+      "size": 60832
+    },
+    {
+      "path": "DevExpress.XtraVerticalGrid.v25.2.dll",
+      "hash": "63847584d5b8183f5dcab085c44c2518044c722f0841dd58dd331f24a48fa7be",
+      "size": 1295776
+    },
+    {
+      "path": "DevExpress.XtraWizard.v25.2.dll",
+      "hash": "2add29c86f60b243d0f47bf3a744bf4734cbd6da196d91e7fc3b42e87c8a8315",
+      "size": 106400
+    },
+    {
+      "path": "EmojiDB.db",
+      "hash": "aa2aa0974eecb3349d2e53a98a543c4a598dd5c12de86faabdfc99c0ef67e470",
+      "size": 674847
+    },
+    {
+      "path": "Google.Apis.Auth.dll",
+      "hash": "a2a4f688c1e34bca248c2a589e73a20ac3c834a9615c13bcb08a317a78842609",
+      "size": 246272
+    },
+    {
+      "path": "Google.Apis.Core.dll",
+      "hash": "198f959ef53b86d9c6f4b3305503960995cfaaa096252dc7bbbb803c57c58bc7",
+      "size": 86528
+    },
+    {
+      "path": "Google.Apis.dll",
+      "hash": "7d9abc7e9b29b2414d7ddee9286a4ce997d12cb6a55badcc1eb975ed5e1d4092",
+      "size": 84480
+    },
+    {
+      "path": "Google.Apis.YouTube.v3.dll",
+      "hash": "19707554c9829b92075c6e8722785eb88472c7daf3d6287e3bff65c3ac91c9bb",
+      "size": 333824
+    },
+    {
+      "path": "Microsoft.AspNetCore.WebUtilities.dll",
+      "hash": "275fc61ba6cead2fc1e4518baf05e4dffd3e341a3b6508acd10f33866440c82a",
+      "size": 106272
+    },
+    {
+      "path": "Microsoft.Extensions.Configuration.Abstractions.dll",
+      "hash": "fefcdb267a73099cb90e5af56b5ef2bca59bed974339b3a6810352bde23537a6",
+      "size": 27936
+    },
+    {
+      "path": "Microsoft.Extensions.Configuration.dll",
+      "hash": "b5cd9da2c3364a5b201cecb0c80e25227d27ba44d96343d2894ff8ef3fd81550",
+      "size": 43800
+    },
+    {
+      "path": "Microsoft.Extensions.Configuration.FileExtensions.dll",
+      "hash": "acf5896d0f34fa1a43295797584b3805c24743ce25ee87538eeec83b012bbf4f",
+      "size": 27936
+    },
+    {
+      "path": "Microsoft.Extensions.Configuration.Json.dll",
+      "hash": "15e1262880f263806a2808d750688739662323b20ccd9835222fff8c30899a4a",
+      "size": 26920
+    },
+    {
+      "path": "Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "hash": "ce50476c4ae094140cba043561d9f3063aff8f11992a962e6616006d03bd8d7e",
+      "size": 65288
+    },
+    {
+      "path": "Microsoft.Extensions.DependencyInjection.dll",
+      "hash": "e22863d5c1699512c9511513e33d50fd7658c92f585cd38702c3d5edf306f9c7",
+      "size": 94984
+    },
+    {
+      "path": "Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "hash": "f08b1f597abb3647ab6e844282ded763e6078dbef6dd54b9d956ca419fac42fe",
+      "size": 22176
+    },
+    {
+      "path": "Microsoft.Extensions.FileProviders.Physical.dll",
+      "hash": "9f67076c79a953f5068c0792114f9722527cfa17ed7414c73fd14833bfe59918",
+      "size": 44808
+    },
+    {
+      "path": "Microsoft.Extensions.FileSystemGlobbing.dll",
+      "hash": "ed0855b522f09b5a9ddbb85de62042c25e07d10044086da8620c845de41e473c",
+      "size": 45848
+    },
+    {
+      "path": "Microsoft.Extensions.Logging.Abstractions.dll",
+      "hash": "1932c244451049d41a2e469a4f7f9425c14aa36c670a739083f94bd5bf9977f8",
+      "size": 66312
+    },
+    {
+      "path": "Microsoft.Extensions.Logging.dll",
+      "hash": "15d04d0a4d850e8f75fd5f43d7889ef44729e8f5f773c28786ee80fd2f9f80b8",
+      "size": 50960
+    },
+    {
+      "path": "Microsoft.Extensions.ObjectPool.dll",
+      "hash": "dba21041ab0064cf94f3e821df1435d880cec2ce5408144e3ec5199347349bc0",
+      "size": 22816
+    },
+    {
+      "path": "Microsoft.Extensions.Options.dll",
+      "hash": "38f61b631dfcf55a0afdff9ce53a3e5404a238617a2686cff23d316906f94958",
+      "size": 64824
+    },
+    {
+      "path": "Microsoft.Extensions.Primitives.dll",
+      "hash": "5c8ac450110b47cb02c8ed7273cbc8cc10dce5638a5a9ba3b5c384bdc36688ab",
+      "size": 44344
+    },
+    {
+      "path": "Microsoft.Net.Http.Headers.dll",
+      "hash": "ce6c1f86cc7429a23f40e47fb10ca0265e366f58ee35894037c970c7e21eaacc",
+      "size": 84744
+    },
+    {
+      "path": "Microsoft.Web.WebView2.Core.dll",
+      "hash": "bb397d03342c76bd308ade82f5b7e8ced00df59459799ffc93a38c3a882b3398",
+      "size": 650304
+    },
+    {
+      "path": "Microsoft.Web.WebView2.Core.xml",
+      "hash": "e0a7a3bc492778ad7340e3415b2fbe5dc585cd55feef710583d4fc35de960776",
+      "size": 580256
+    },
+    {
+      "path": "Microsoft.Web.WebView2.WinForms.dll",
+      "hash": "c3062ac43c9bca7260c77a630bdb2834f38e529226796dac6d77b30f010e5bbd",
+      "size": 39488
+    },
+    {
+      "path": "Microsoft.Web.WebView2.WinForms.xml",
+      "hash": "96e468637ee3322db9851e38c0a3d7c32f0d11f60566b47ace2c91ec66179ac8",
+      "size": 41870
+    },
+    {
+      "path": "Microsoft.Web.WebView2.Wpf.dll",
+      "hash": "1e9ff65c05cdcf7bd56fe617e9b1fcc7b4a51503604ac80de14bcc9fbf54c509",
+      "size": 83008
+    },
+    {
+      "path": "Microsoft.Web.WebView2.Wpf.xml",
+      "hash": "8932fe759bb7afd1e0de73682a9577d782048a68b252408e127cf767fc348be4",
+      "size": 142442
+    },
+    {
+      "path": "NAudio.Asio.dll",
+      "hash": "035c653468ac70370f51fb5bb2001b4cf868e479846ccc8c7a09789aa22e2606",
+      "size": 34816
+    },
+    {
+      "path": "NAudio.Core.dll",
+      "hash": "4f8d8c4140146674b103c8a3c46fbc4c768a86c0012a167168e3f7da2b3e5c09",
+      "size": 187904
+    },
+    {
+      "path": "NAudio.dll",
+      "hash": "99f690cf6cdc829f815c06c27fcda9bd18f85b475a8b1b00898fb669fe39f98c",
+      "size": 7680
+    },
+    {
+      "path": "NAudio.Midi.dll",
+      "hash": "7796a9ec97a1ff29e682855839845da9fe26b6ddcc34addbb514cd73e7a9f02a",
+      "size": 46592
+    },
+    {
+      "path": "NAudio.Wasapi.dll",
+      "hash": "a05e371abf96195770ac4f84653d987d63731fed528e98c7fe0d10ce66e37d7e",
+      "size": 180224
+    },
+    {
+      "path": "NAudio.WinForms.dll",
+      "hash": "7029d547c9da7fad6d32b6fc4fb9120a52f596f6a1c86485ae050a2e971ae4b0",
+      "size": 34816
+    },
+    {
+      "path": "NAudio.WinMM.dll",
+      "hash": "80807335ee64d5bb26a9de0d1f966a902b5adf32c53b853c8b871937d12b437b",
+      "size": 58368
+    },
+    {
+      "path": "Newtonsoft.Json.dll",
+      "hash": "a28c251dfe36d881e9e2462e171441b8b0ec156fe3f452602c9149b1b9efe05b",
+      "size": 723368
+    },
+    {
+      "path": "Resend.dll",
+      "hash": "38d0ce95e43ca1d058c67d015fcf75b7d1b35bdfb3bfc5307f965ac51ff852bd",
+      "size": 116224
+    },
+    {
+      "path": "SocketIOClient.Common.dll",
+      "hash": "e4ebedf629a26f7c9f7ca14d6ca9661d586038d265073ce7c984f41971a3a491",
+      "size": 9216
+    },
+    {
+      "path": "SocketIOClient.dll",
+      "hash": "9d6b2e56e7b07c2f496032bb23a56783736a0150bbb2706c370100a96863df2e",
+      "size": 125440
+    },
+    {
+      "path": "SocketIOClient.Serializer.dll",
+      "hash": "31a7b0ca5e086a5d10ab222b721f4ea13d571026d601b2e88af13140fccac5f6",
+      "size": 11264
+    },
+    {
+      "path": "StreamNexus.deps.json",
+      "hash": "c0306ea77f0a199391091ef4582705af7431c5e538f781c132369f2f72a4ad33",
+      "size": 107232
+    },
+    {
+      "path": "StreamNexus.dll",
+      "hash": "62726d14cd7c063032156481877b2fc7a719c9b1c306e57107210ee9db206fe0",
+      "size": 6852096
+    },
+    {
+      "path": "StreamNexus.dll.config",
+      "hash": "a1ce5b30f781d46adde444c26d6896bda9e44944104231b84c6aaba9f787e302",
+      "size": 2977
+    },
+    {
+      "path": "StreamNexus.exe",
+      "hash": "c1d86c47c9a94e745f7ceaaa0b8959e45bb8c3f15b2dd06261c108ed19eefa74",
+      "size": 171008
+    },
+    {
+      "path": "StreamNexus.pdb",
+      "hash": "70f628a280a8d9eb3453b567bf2a1487a86cca84c3cc7f869db0ffa41197c8f9",
+      "size": 122076
+    },
+    {
+      "path": "StreamNexus.runtimeconfig.json",
+      "hash": "7e79af92820e50910b90f1cade2728f45987393f24b50e384dc225d9773b7194",
+      "size": 443
+    },
+    {
+      "path": "System.Configuration.ConfigurationManager.dll",
+      "hash": "f7ea3a9618aca48fb57fd06e9102b327ab66468ceb78c96d56f7d2eee2945983",
+      "size": 442544
+    },
+    {
+      "path": "System.Data.OleDb.dll",
+      "hash": "e04ee8234c80d88988c813a08d462b9accf756acc3c7bc0143bcd781ad44b910",
+      "size": 123672
+    },
+    {
+      "path": "System.Data.SqlClient.dll",
+      "hash": "eb4c01207fb5882cbb29d285c8be55134b91d347d4221d522638d383e046c06a",
+      "size": 268320
+    },
+    {
+      "path": "System.Diagnostics.DiagnosticSource.dll",
+      "hash": "a09d773cc4d2f647ef1f41bbde34fdc464aa23bd2061a1380025823051a38641",
+      "size": 192264
+    },
+    {
+      "path": "System.Diagnostics.EventLog.dll",
+      "hash": "3f8064e2499f13a8948ad2da0c6040d12683a9a90aaab786dbd6b653f17ac9cc",
+      "size": 51992
+    },
+    {
+      "path": "System.Diagnostics.PerformanceCounter.dll",
+      "hash": "27571769f43067be4a0473916b6682c3f19443e83b4f884b69104ab6152fc58a",
+      "size": 51976
+    },
+    {
+      "path": "System.Drawing.Common.dll",
+      "hash": "46d363f761f9133a636bd927e02ec37d625b636c48c0eba65897418d4c29bfab",
+      "size": 611112
+    },
+    {
+      "path": "System.IO.Pipelines.dll",
+      "hash": "67a09026248df7f647518f64be907a64bd098df55dd7900b5caf307ba6575579",
+      "size": 77584
+    },
+    {
+      "path": "System.Management.dll",
+      "hash": "36056b240f488b7da63720585d84f93183cf7bd05da68d5340151ebdd85e4d88",
+      "size": 74352
+    },
+    {
+      "path": "System.Security.Cryptography.Pkcs.dll",
+      "hash": "e2352938ed4f664f770a5c98ef067cb145304456d014d2c311d725c95c8a21a9",
+      "size": 264864
+    },
+    {
+      "path": "System.Security.Cryptography.Xml.dll",
+      "hash": "10dafe8e0c95165a5435cfabf552d905bbce9636061393b4cb2533f24d88ab45",
+      "size": 198424
+    },
+    {
+      "path": "System.ServiceModel.dll",
+      "hash": "7b25feeecf406c6fd00fea3be98e5b0173506da4749b67010fd47ebdc5b05d4d",
+      "size": 25144
+    },
+    {
+      "path": "System.ServiceModel.Duplex.dll",
+      "hash": "8cde3443ef4d0360d7d392a353d91b1270ded64345e3ccf611e152d4b25a9978",
+      "size": 15424
+    },
+    {
+      "path": "System.ServiceModel.Http.dll",
+      "hash": "0fa24d7da9b0189622ea983590d488b5e8473dac7eab76b34ab2268e4bed8f32",
+      "size": 203832
+    },
+    {
+      "path": "System.ServiceModel.NetFramingBase.dll",
+      "hash": "9a7061b5102a252f6883cee596ce97b3dec4f7104287e88ee03712070fcfcc92",
+      "size": 198200
+    },
+    {
+      "path": "System.ServiceModel.NetTcp.dll",
+      "hash": "3ef2c1ddc987d3050238bc6660f463be97f4f73a41d7e1d6990c1dcb81aa7918",
+      "size": 63032
+    },
+    {
+      "path": "System.ServiceModel.Primitives.dll",
+      "hash": "21804e970c13be46fd3977287f0e6e97e54d939a73dd3a2f8a1e099677f23b24",
+      "size": 2389576
+    },
+    {
+      "path": "System.ServiceModel.Security.dll",
+      "hash": "0d1336b177798ac63c13e0b22acd40cb16199bb255eddf7c1c1dea12660a85f1",
+      "size": 16968
+    },
+    {
+      "path": "System.Text.Encodings.Web.dll",
+      "hash": "c3336fe73d20d6da810296b4013bcf39dc8ab008d9e83651d4afa643b3cc7b05",
+      "size": 66320
+    },
+    {
+      "path": "System.Text.Json.dll",
+      "hash": "d29f5565e8d9a3a668854133c1ae4b158b4c5f38e0a514849e4bfd025ebb2267",
+      "size": 677128
+    },
+    {
+      "path": "cs/System.ServiceModel.Http.resources.dll",
+      "hash": "27ba9d163e22cf3fa004274828bc606d306c5e39d04ee151bc3851c3e03abd00",
+      "size": 33864
+    },
+    {
+      "path": "cs/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "f7e6b6566bedad9ccc0a7f576992471fb0c3b3024347be0f45035f586fdaaff3",
+      "size": 31304
+    },
+    {
+      "path": "cs/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "dc2c6f30f87f4ef712a35f06fa2d58199e55673cdce32411bdfabcd77aebb72d",
+      "size": 20536
+    },
+    {
+      "path": "cs/System.ServiceModel.Primitives.resources.dll",
+      "hash": "1308b5f3d3b9681b28aa2ec752cb30102468d2612169dc0b4e90e8b7abe63b58",
+      "size": 208952
+    },
+    {
+      "path": "de/System.ServiceModel.Http.resources.dll",
+      "hash": "97bf17af8f988347a54480df9a62e196fedfa7046369b18289d3990f4ef92b02",
+      "size": 34872
+    },
+    {
+      "path": "de/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "0af67d66e694889577655f156a875e9f1f8e35a06203d8b2a9addd77fea6955f",
+      "size": 32840
+    },
+    {
+      "path": "de/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "f3479315d67abd7d31a789fc21fb94e25757c6d2fd61c6aee292b4a685984989",
+      "size": 21024
+    },
+    {
+      "path": "de/System.ServiceModel.Primitives.resources.dll",
+      "hash": "0407cd192abab94026ef26c1343bc9ad7784a71f566f56e54e6316558ef2688f",
+      "size": 223304
+    },
+    {
+      "path": "es/System.ServiceModel.Http.resources.dll",
+      "hash": "393ba15e467e3f03128eda5c332cd9a26c5f28b2240d8c07e1be37a92e4ef7fb",
+      "size": 33848
+    },
+    {
+      "path": "es/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "dbda78099db5f51008fd427a9dc2ae036fe7472ba5af045ec0ee524fb801b824",
+      "size": 32328
+    },
+    {
+      "path": "es/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "c0de4b5db0e25a1b6b433dcabea7078d0751068cc4003aca2b16ce07bf9455e6",
+      "size": 20536
+    },
+    {
+      "path": "es/System.ServiceModel.Primitives.resources.dll",
+      "hash": "6f636832d4cb13468a3f8cf91d26c403d952be5db627bb1b9d4c58f6944ad859",
+      "size": 215096
+    },
+    {
+      "path": "fr/System.ServiceModel.Http.resources.dll",
+      "hash": "73f84973c9909e3a7d5f137063bbb584bae549b4b7951860d8d090d76a52ad50",
+      "size": 34872
+    },
+    {
+      "path": "fr/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "a18607fb7611e2be899f26ff4c0d4fac38b88451511b05c55055f9a00de0d678",
+      "size": 32312
+    },
+    {
+      "path": "fr/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "4d4453b7e80e534f725a1a64bc66b202d4793bfd21fc96f7056a0b2a2f07ed9c",
+      "size": 21048
+    },
+    {
+      "path": "fr/System.ServiceModel.Primitives.resources.dll",
+      "hash": "eb93a2182ef9a7d19c4d0617f5ae8d1d9718a969d5812e54c0c0811d94d9d3d5",
+      "size": 222776
+    },
+    {
+      "path": "it/System.ServiceModel.Http.resources.dll",
+      "hash": "d6487828a37bfe511298d84f2145a63b93fd28d4edd000936c02ce8d00bbf057",
+      "size": 34376
+    },
+    {
+      "path": "it/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "d208311ab9084838ba0b2338cd3c686dea721b49f9da8669caad38cce4b49c76",
+      "size": 32312
+    },
+    {
+      "path": "it/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "def9e09a93da7fc51bf6ce26855796190ebb8dfd53eb3ae56cff92836287683e",
+      "size": 21048
+    },
+    {
+      "path": "it/System.ServiceModel.Primitives.resources.dll",
+      "hash": "b21e80dfe58206ff6f2d2e149e53ae383620a512d5013e8ba7890fe46b24f5e2",
+      "size": 217144
+    },
+    {
+      "path": "ja/System.ServiceModel.Http.resources.dll",
+      "hash": "f476a118575fea5410c098bdfb11d7ebb99c63a962c29767acb8db26c0e9c438",
+      "size": 37432
+    },
+    {
+      "path": "ja/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "94f4ba8c384d3b6b1a0d22d35a24d81cdf8400efa44bd041b7244c2d1e64453b",
+      "size": 34872
+    },
+    {
+      "path": "ja/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "ac7175560db8a003820d9d9e00a506479aeecbc29bc17c691e0455041837650c",
+      "size": 22088
+    },
+    {
+      "path": "ja/System.ServiceModel.Primitives.resources.dll",
+      "hash": "3898c7a0b70685468bb62ce317a0dbf6d57fac4f303f27bf0da9cbc2ab7754a4",
+      "size": 251960
+    },
+    {
+      "path": "ko/System.ServiceModel.Http.resources.dll",
+      "hash": "07d1f3c4435d8424157068e74f5e31d55fbc7facd8b43bbee28dd29dafa4f5f2",
+      "size": 34872
+    },
+    {
+      "path": "ko/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "f4d097633119bf1b90ef8c900399020a65a64cfefcf133130448ed825b50ee73",
+      "size": 32824
+    },
+    {
+      "path": "ko/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "24bbfc53b07deb85ebcdf796c6ada805d81f9f7303aa14f67b52ab0cbce80b3b",
+      "size": 21048
+    },
+    {
+      "path": "ko/System.ServiceModel.Primitives.resources.dll",
+      "hash": "09568043d9ed94477087b54fc379996ee6c2b49f940e27732b49fd85db8de920",
+      "size": 222264
+    },
+    {
+      "path": "pl/System.ServiceModel.Http.resources.dll",
+      "hash": "5de24e0db215d521c226cfef067005980b1bb6b563875ef41462e76ec64743c4",
+      "size": 34872
+    },
+    {
+      "path": "pl/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "b82aa0c3e1c56b4f6cff9c1f1554cd2ec03866621ad201c46f538a2092347b2b",
+      "size": 32312
+    },
+    {
+      "path": "pl/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "2475463734b14295d76f1ece8ade3589fd535dfd105e4df6515ee98c7a22e58f",
+      "size": 21064
+    },
+    {
+      "path": "pl/System.ServiceModel.Primitives.resources.dll",
+      "hash": "57a34bd8de935e4ff6c34f9bfa4549fd5dc69f39616dfad483d4f9e436567bf5",
+      "size": 222264
+    },
+    {
+      "path": "pt-BR/System.ServiceModel.Http.resources.dll",
+      "hash": "4bafcc3510d2b0e7fb118f898ef692486112b8e494df685a2340fb52bccee072",
+      "size": 33848
+    },
+    {
+      "path": "pt-BR/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "086042e26c8480ab46ce3dfdecae0ab43e2a66311ec7b3cbc646aab32a783799",
+      "size": 31816
+    },
+    {
+      "path": "pt-BR/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "8b2bc6b7b130d69d91f1c032a6e459ddbd115c563c3d40c34b9da824e0e67de1",
+      "size": 20536
+    },
+    {
+      "path": "pt-BR/System.ServiceModel.Primitives.resources.dll",
+      "hash": "be10e87d7265a8ea588afcff997a7f4470ac53c1f8ca1e0ef0787ffc4d2e9bdb",
+      "size": 213064
+    },
+    {
+      "path": "ru/System.ServiceModel.Http.resources.dll",
+      "hash": "4b14ef2bba5af4f631647a932c6b546fa5bac9bd75146b352e0201574c531207",
+      "size": 41528
+    },
+    {
+      "path": "ru/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "34a36333d27b5a4511f960da6969e0b03fae32318082ddb37eba00a96c38aa32",
+      "size": 38968
+    },
+    {
+      "path": "ru/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "37c6a7a837599d0be0a5ce5ac6539602f8730560b6a4651a8839014601e68b1f",
+      "size": 23608
+    },
+    {
+      "path": "ru/System.ServiceModel.Primitives.resources.dll",
+      "hash": "54b54739deffbeec99cbd9caf28d1e17f507d9387ee015c43f2bd2ad0247e415",
+      "size": 292920
+    },
+    {
+      "path": "tr/System.ServiceModel.Http.resources.dll",
+      "hash": "d90040d3ac3a482a7222a692ddf9d7eae3880074fc18694b34a580377a1e5237",
+      "size": 33352
+    },
+    {
+      "path": "tr/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "60f34fc58af6cb1b667cc8ec7ae00c9daccae1147e0165c76953444a93006e27",
+      "size": 31304
+    },
+    {
+      "path": "tr/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "32482b6b8157fd92323eef46cc592cd3042a738c60b5ccc396db2d2f811e5e37",
+      "size": 21064
+    },
+    {
+      "path": "tr/System.ServiceModel.Primitives.resources.dll",
+      "hash": "d92a9b6e84de63deae69d1178c8969fbda7bbe0be93dce527ec650f71a9424fa",
+      "size": 208456
+    },
+    {
+      "path": "zh-Hans/System.ServiceModel.Http.resources.dll",
+      "hash": "0cf264da3c0304b65abd44926f80137c876934b8b846348c1ba21e03b12a9890",
+      "size": 31264
+    },
+    {
+      "path": "zh-Hans/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "a2cd37de38ee3f833d87cc8af22cb9569bb7a6d5682780f9d6ec7ca8be98087f",
+      "size": 28728
+    },
+    {
+      "path": "zh-Hans/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "e0359c1455e7ed3bc13f228feb9e0e6e3a32c057697a5017718b793e75a9efa2",
+      "size": 19528
+    },
+    {
+      "path": "zh-Hans/System.ServiceModel.Primitives.resources.dll",
+      "hash": "6ed7c7f90f6097dd57f1fa3761d8734e79609e8a41c839f406002f2d33fd60ac",
+      "size": 185400
+    },
+    {
+      "path": "zh-Hant/System.ServiceModel.Http.resources.dll",
+      "hash": "5aade5825ee0c29ec198f888796ae6acb140c6d95d1b0a689aba62bcbf398299",
+      "size": 30776
+    },
+    {
+      "path": "zh-Hant/System.ServiceModel.NetFramingBase.resources.dll",
+      "hash": "d1824a5c908f2049c772cfcfdee9b2272962512875b0b6c9101a5a89953c5c76",
+      "size": 29256
+    },
+    {
+      "path": "zh-Hant/System.ServiceModel.NetTcp.resources.dll",
+      "hash": "a3ed61f800e84ae4eb2fe3ccaa868eb5c92091e57b778fd4f729ce3e5fedce0c",
+      "size": 20024
+    },
+    {
+      "path": "zh-Hant/System.ServiceModel.Primitives.resources.dll",
+      "hash": "c469c5b093666b6400c82c32b4825150f4d9dc0f2f6363db2d564086f367fbe2",
+      "size": 186424
+    },
+    {
+      "path": "runtimes/win-arm64/native/sni.dll",
+      "hash": "ef18458c4dcb93f6b4eac07e1589cf3450bf878f2dd623f5d34f6a0f1b16e57a",
+      "size": 174224
+    },
+    {
+      "path": "runtimes/win-arm64/native/WebView2Loader.dll",
+      "hash": "0ea44c3541466b302867d8021363260bcc3272f3dc29d92d54123b96d2628425",
+      "size": 147520
+    },
+    {
+      "path": "runtimes/win-x64/native/sni.dll",
+      "hash": "68705c4ef9ab818f2956a78e05f3fefce501a1448793b073b46110beb49b47d6",
+      "size": 160040
+    },
+    {
+      "path": "runtimes/win-x64/native/WebView2Loader.dll",
+      "hash": "1ac87267e52ccdf5621678697f948030307a650ca56f38f69e74c7cfaf9605c6",
+      "size": 159344
+    },
+    {
+      "path": "runtimes/win-x86/native/sni.dll",
+      "hash": "1446d6b26da49a5a9f366972f89f4e236f916955f31ddc38ebb96217c1cace9c",
+      "size": 136488
+    },
+    {
+      "path": "runtimes/win-x86/native/WebView2Loader.dll",
+      "hash": "14e83e8d1d19d0138ce6be5f59f912d576fc27e839203a94d0a15ec30bae0c1a",
+      "size": 120944
+    },
+    {
+      "path": "runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll",
+      "hash": "09dccd9690461b8a583690d3d5ca34ae5b252545b2183d5d252d4e315658a46c",
+      "size": 66360
+    },
+    {
+      "path": "runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll",
+      "hash": "b8dd67b68e883bbe11c7430cbdbff8ea4392c81f5497f5277cc10e070e47fb14",
+      "size": 957472
+    },
+    {
+      "path": "runtimes/win/lib/net7.0/System.Management.dll",
+      "hash": "979fee559e30cc0fc4af6f34548a225b6f08cae0a6c61d24a3e389b3f22dc9d1",
+      "size": 295600
+    },
+    {
+      "path": "runtimes/win/lib/net8.0/System.Data.OleDb.dll",
+      "hash": "df4d8e1d3616e116c450f751a631234163f526257a0141b47f4c0810326998fa",
+      "size": 389392
+    },
+    {
+      "path": "runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll",
+      "hash": "8343020e3752dc8fae7598816570aa30b041f835412a76dac7f65b229ed9532b",
+      "size": 172704
+    },
+    {
+      "path": "runtimes/win/lib/net8.0/System.Diagnostics.PerformanceCounter.dll",
+      "hash": "7017465d6f7cde792bad23b79bd848a6c2586b0bfe5cdf1371ab9838732d9a8b",
+      "size": 135464
+    },
+    {
+      "path": "runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll",
+      "hash": "d8e4b733fbaec1fe0e808fd6391479f190b170df03e309c5f07dc85445447d22",
+      "size": 319784
+    },
+    {
+      "path": "runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll",
+      "hash": "d3d8a8e35cb6cd2bac3bac85c2c3a7557aa82e6cec20b4945d147b7527342d99",
+      "size": 1026096
+    }
+  ]
+}
