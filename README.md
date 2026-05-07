@@ -1,4 +1,4 @@
-# <img width="120" height="120" alt="icon" src="https://github.com/user-attachments/assets/e3083a6f-32ac-4730-9b7d-f926afc9d997" /> StreamNexus
+# <img width="84" height="84" alt="icon" src="https://github.com/user-attachments/assets/e3083a6f-32ac-4730-9b7d-f926afc9d997" /> StreamNexus
 
 StreamNexus is a professional desktop application designed for YouTube livestream creators who require advanced live chat management, automation, and moderation capabilities within a modern and efficient workflow.
 
